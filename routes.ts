@@ -8,4 +8,8 @@ export const routes: Route[] = [
     routeName: "animating-auto",
     displayName: "Animating Auto",
   },
+  {
+    routeName: "async-css-variables",
+    displayName: "Async CSS variables",
+  },
 ];
